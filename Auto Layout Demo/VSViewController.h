@@ -1,0 +1,4 @@
+
+@interface VSViewController : UIViewController
+
+@end
