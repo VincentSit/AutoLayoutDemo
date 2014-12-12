@@ -11,7 +11,7 @@
     
     self.view.backgroundColor = [UIColor grayColor];
     
-    [self example17];
+    [self example1];
 }
 
 /**
